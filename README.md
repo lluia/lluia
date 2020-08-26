@@ -16,4 +16,4 @@ function currentStatus() {
 
 ### Reach me at
 - 📫 [hi@llu.lu](mailto:hi@llu.lu)
-- 🦉 [Twitter](https://twitter.com/_lluia)
+- 🦩 [Twitter](https://twitter.com/_lluia)
