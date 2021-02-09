@@ -11,7 +11,7 @@ Welcome 🪴, based (and born) in sunny Barcelona <img src="./images/sun.png" wi
 - **React** ⚛ architecture patterns and monorepo architecture
 - **Integration testing** (these days mostly with Cypress)
 
-<img src="./images/logos.png" aria-label="Tech logos" />
+<img src="./images/logos.png" aria-label="Tech logos" height="70" />
 
 ### Philosophy
 
