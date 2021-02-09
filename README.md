@@ -11,15 +11,7 @@ Welcome 🪴, based (and born) in sunny Barcelona <img src="./images/sun.png" wi
 - **React** ⚛ architecture patterns and monorepo architecture
 - **Integration testing** (these days mostly with Cypress)
 
-<img src="./images/js.png" width="40" aria-label="Javascript logo" />
-<img src="./images/ts.png" width="40" aria-label="Typescript logo" />
-<img src="./images/react.png" width="40" aria-label="React logo" />
-<img src="./images/node.png" width="39" aria-label="Node logo" />
-<img src="./images/gql.png" width="40" aria-label="GraphQL logo" />
-<img src="./images/storybook.png" width="40" aria-label="Storybooks logo" />
-<img src="./images/cy.png" width="40" aria-label="Cypress logo" />
-<img src="./images/testing-lib.png" width="40" aria-label="RTL logo" />
-<img src="./images/tw.png" width="40" aria-label="Tailwind logo" />
+<img src="./images/logos.png" aria-label="Tech logos" />
 
 ### Philosophy
 
@@ -30,12 +22,12 @@ Welcome 🪴, based (and born) in sunny Barcelona <img src="./images/sun.png" wi
 
 ### Other
 
-<img src="./images/wheel.png" width="15" aria-label="Wheel icon" /> Ancient Buddhism (Theravada)
-<img src="./images/coffee.png" width="15" aria-label="Coffee  icon" /> Speciality Coffee
-<img src="./images/mountain.png" width="15" aria-label="Mountain icon" /> Hiking and climbing
-<img src="./images/min.png" width="15" aria-label="Rectangle icon" /> Minimalism
-<img src="./images/earth.png" width="15" aria-label="Earth icon" /> Climate first
-<img src="./images/him.png" width="15" aria-label="Boy icon" /> He / him
+<img src="./images/wheel.png" width="15" aria-label="Wheel icon" /> Ancient Buddhism (Theravada) <br />
+<img src="./images/coffee.png" width="15" aria-label="Coffee  icon" /> Speciality Coffee <br />
+<img src="./images/mountain.png" width="15" aria-label="Mountain icon" /> Hiking and climbing <br />
+<img src="./images/min.png" width="15" aria-label="Rectangle icon" /> Minimalism <br />
+<img src="./images/earth.png" width="15" aria-label="Earth icon" /> Climate first <br />
+<img src="./images/him.png" width="15" aria-label="Boy icon" /> He / him <br />
 
 ### Reach me at
 
