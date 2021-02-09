@@ -1,6 +1,8 @@
-## Welcome 🪴
+<div align="center"><img src="./images/me.png" width="200" /></div>
 
-Based (and born) in sunny Barcelona 🔆 I have been working as a Front-end for about 6 years... 💭
+---
+
+Welcome 🪴, based (and born) in sunny Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" /> I have been working as a Front-end for about 6 years... 💭
 
 ### Fields of Interest
 
@@ -9,22 +11,33 @@ Based (and born) in sunny Barcelona 🔆 I have been working as a Front-end for 
 - **React** ⚛ architecture patterns and monorepo architecture
 - **Integration testing** (these days mostly with Cypress)
 
+<img src="./images/js.png" width="40" aria-label="Javascript logo" />
+<img src="./images/ts.png" width="40" aria-label="Typescript logo" />
+<img src="./images/react.png" width="40" aria-label="React logo" />
+<img src="./images/node.png" width="39" aria-label="Node logo" />
+<img src="./images/gql.png" width="40" aria-label="GraphQL logo" />
+<img src="./images/storybook.png" width="40" aria-label="Storybooks logo" />
+<img src="./images/cy.png" width="40" aria-label="Cypress logo" />
+<img src="./images/testing-lib.png" width="40" aria-label="RTL logo" />
+<img src="./images/tw.png" width="40" aria-label="Tailwind logo" />
+
 ### Philosophy
 
-- KISS (keep it simple stupid)
-- DOT (do one thing well)
-- FP (but keep it light)
-- Declarative > Imperative code
+1. KISS (keep it simple stupid)
+2. DOT (do one thing well)
+3. FP (and keep it light)
+4. Declarative > Imperative code
 
 ### Other
 
-- Ancient Buddhism (Theravada)
-- Speciality Coffee ☕️
-- Hiking and climbing
-- Minimalism
-- He / him
-
+<img src="./images/wheel.png" width="15" aria-label="Wheel icon" /> Ancient Buddhism (Theravada)
+<img src="./images/coffee.png" width="15" aria-label="Coffee  icon" /> Speciality Coffee
+<img src="./images/mountain.png" width="15" aria-label="Mountain icon" /> Hiking and climbing
+<img src="./images/min.png" width="15" aria-label="Rectangle icon" /> Minimalism
+<img src="./images/earth.png" width="15" aria-label="Earth icon" /> Climate first
+<img src="./images/him.png" width="15" aria-label="Boy icon" /> He / him
 
 ### Reach me at
-- 📫 [hi@llu.lu](mailto:hi@llu.lu)
-- 🦩 [Twitter](https://twitter.com/_lluia)
+
+<img src="./images/mail.png" width="15" /> [hi@llu.lu](mailto:hi@llu.lu)
+<img src="./images/twitter.png" width="15" /> [Twitter](https://twitter.com/_lluia)
