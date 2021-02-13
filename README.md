@@ -2,7 +2,7 @@
 
 ---
 
-Welcome 🪴, based (and born) in sunny Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" /> I have been working as a Front-end for about 7 years... 💭
+Welcome 🪴, based (and born) in sunny Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" /> I have been writing Front-end code for about 7 years... 💭
 
 ### Fields of Interest
 
