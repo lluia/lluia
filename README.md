@@ -1,8 +1,8 @@
-<img src="./images/me.png" width="200" />
+<img src="./images/me-coffee.jpg" width="300" />
 
 ---
 
-Welcome 🪴, based (and born) in sunny Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" /> I have been working as a Front-end for about 6 years... 💭
+Welcome 🪴, based (and born) in sunny Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" /> I have been working as a Front-end for about 7 years... 💭
 
 ### Fields of Interest
 
