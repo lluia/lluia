@@ -1,6 +1,3 @@
-<img src="./images/me-coffee.jpg" width="300" />
-
----
 
 Welcome 🪴, based (and born) in sunny Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" /> I have been writing Front-end code for about 7 years, he/him... 💭
 
