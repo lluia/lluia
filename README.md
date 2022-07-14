@@ -2,6 +2,8 @@
 
 Based (and born) in sunny Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" />, half spanish half german, been writing Front-end code for about 7 years 💭
 
+I help maintain [NextAuth](next-auth.js.org/), open source for the win.  
+
 ### Fields of Interest
 
 - Newest stuff of **Javascript** and **Typescript**
