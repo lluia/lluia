@@ -1,6 +1,6 @@
 ## Welcome 🪴 
 
-Based in Lund, Sweden, and born in sunny Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" />, half spanish half german, been writing Front-end code for about 10 years 💭
+Based in Lund <img src="./images/sun.png" width="15" aria-label="Sun icon" />, Sweden,, half spanish half german, been writing Front-end code for about 10 years 💭
 
 I follow [digital minimalism](https://www.amazon.com/gp/product/0525536515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525536515&linkCode=as2&tag=minimalismmad-20&linkId=2df956dd47bb1616c9e4e5f99f2fdb97) and a **nomad lifestyle**.
 
