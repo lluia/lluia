@@ -1,8 +1,10 @@
 ## Welcome 🪴 
 
-Based in Lund <img src="./images/sun.png" width="15" aria-label="Sun icon" />, Sweden,, half spanish half german, been writing Front-end code for about 10 years 💭
+Hey, I'm Lluis, known as **Ubbe** online. Currently living in Lund, Sweden. I was born in Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" />. 
 
-I follow [digital minimalism](https://www.amazon.com/gp/product/0525536515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525536515&linkCode=as2&tag=minimalismmad-20&linkId=2df956dd47bb1616c9e4e5f99f2fdb97) and a **nomad lifestyle**.
+I've been writing code (mostly Front-end) for about 10 years 💭
+
+I follow [digital minimalism](https://www.amazon.com/gp/product/0525536515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525536515&linkCode=as2&tag=minimalismmad-20&linkId=2df956dd47bb1616c9e4e5f99f2fdb97) and from time to time a nomad lifestyle. Aside from coding I love travelling 🎒 and photography 📸 !
 
 I help maintain [NextAuth](next-auth.js.org/), open source for the win. You can reach me at hola@lluis.xyz.
 
