@@ -1,6 +1,6 @@
 ## Welcome 🪴 
 
-Hey, I'm Lluis, known as **Ubbe** online. Currently living in Lund, Sweden. I was born in Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" />. 
+Hey, I'm Lluis. Currently living in Lund, Sweden. I was born in Barcelona <img src="./images/sun.png" width="15" aria-label="Sun icon" />. 
 
 I've been writing code (mostly Front-end) for about 10 years 💭
 
