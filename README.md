@@ -8,7 +8,7 @@ I follow [digital minimalism](https://www.amazon.com/gp/product/0525536515/ref=a
 
 Aside from coding I love travelling 🎒 and photography 📸 !
 
-I help maintain [NextAuth](next-auth.js.org/), open source for the win. You can reach me at hi@ubbe.dev.
+I help maintain [Auth.js](https://github.com/nextauthjs/next-auth), open source for the win. You can reach me at hi@ubbe.dev.
 
 ### Fields of Interest
 
